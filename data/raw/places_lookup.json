@@ -1,0 +1,306 @@
+[
+  {
+    "query": "Kempinski Hotel Gold Coast City Accra",
+    "place_id": "4375055",
+    "name": "Kempinski Hotel Gold Coast City",
+    "type": null,
+    "rating": 4.8,
+    "category": "hotels"
+  },
+  {
+    "query": "Kempinski Hotel Gold Coast City Accra",
+    "place_id": "255337",
+    "name": "Gold Coast",
+    "type": null,
+    "rating": null,
+    "category": "hotels"
+  },
+  {
+    "query": "Labadi Beach Hotel Accra",
+    "place_id": "307958",
+    "name": "Labadi Beach Hotel",
+    "type": null,
+    "rating": 4.3,
+    "category": "hotels"
+  },
+  {
+    "query": "Labadi Beach Hotel Accra",
+    "place_id": "1469182",
+    "name": "Labadi Pleasure Beach",
+    "type": null,
+    "rating": 3.4,
+    "category": "hotels"
+  },
+  {
+    "query": "Movenpick Ambassador Hotel Accra",
+    "place_id": "2155776",
+    "name": "Movenpick Ambassador Hotel Accra",
+    "type": null,
+    "rating": 4.3,
+    "category": "hotels"
+  },
+  {
+    "query": "Movenpick Ambassador Hotel Accra",
+    "place_id": "7173214",
+    "name": "Fiesta Residences Boutique Hotel & Serviced Apartments",
+    "type": null,
+    "rating": 4.6,
+    "category": "hotels"
+  },
+  {
+    "query": "Alisa Hotel North Ridge Accra",
+    "place_id": "1308197",
+    "name": "Alisa Hotels",
+    "type": null,
+    "rating": 4,
+    "category": "hotels"
+  },
+  {
+    "query": "Alisa Hotel North Ridge Accra",
+    "place_id": "10167354",
+    "name": "Alisa Hotel",
+    "type": null,
+    "rating": 3.7,
+    "category": "hotels"
+  },
+  {
+    "query": "Royal Senchi Resort Akosombo",
+    "place_id": "3843043",
+    "name": "The Royal Senchi Hotel and Resort",
+    "type": null,
+    "rating": 4.5,
+    "category": "hotels"
+  },
+  {
+    "query": "Royal Senchi Resort Akosombo",
+    "place_id": "3758130",
+    "name": "Adi Lake Resort",
+    "type": null,
+    "rating": 3.9,
+    "category": "hotels"
+  },
+  {
+    "query": "Coconut Grove Beach Resort Elmina",
+    "place_id": "581671",
+    "name": "Coconut Grove Beach Resort",
+    "type": null,
+    "rating": 3.9,
+    "category": "hotels"
+  },
+  {
+    "query": "Coconut Grove Beach Resort Elmina",
+    "place_id": "2031745",
+    "name": "Coconut Grove Beach Resort",
+    "type": null,
+    "rating": 3.7,
+    "category": "hotels"
+  },
+  {
+    "query": "Kwahu Cham Cham Hotel",
+    "place_id": "1096368",
+    "name": "Cham",
+    "type": null,
+    "rating": null,
+    "category": "hotels"
+  },
+  {
+    "query": "Kwahu Cham Cham Hotel",
+    "place_id": "1078394",
+    "name": "Cham",
+    "type": null,
+    "rating": null,
+    "category": "hotels"
+  },
+  {
+    "query": "Chez Afrique Restaurant Accra",
+    "place_id": "8816305",
+    "name": "Chez Afrique",
+    "type": null,
+    "rating": 4,
+    "category": "restaurants"
+  },
+  {
+    "query": "Chez Afrique Restaurant Accra",
+    "place_id": "8373934",
+    "name": "Chez Clarisse",
+    "type": null,
+    "rating": 4.1,
+    "category": "restaurants"
+  },
+  {
+    "query": "Buka Restaurant Osu Accra",
+    "place_id": "1213391",
+    "name": "The Buka Restaurant",
+    "type": null,
+    "rating": 3.9,
+    "category": "restaurants"
+  },
+  {
+    "query": "Buka Restaurant Osu Accra",
+    "place_id": "12262524",
+    "name": "Osu",
+    "type": null,
+    "rating": 3.7,
+    "category": "restaurants"
+  },
+  {
+    "query": "Santoku Restaurant Accra",
+    "place_id": "3228666",
+    "name": "Santoku",
+    "type": null,
+    "rating": 4.4,
+    "category": "restaurants"
+  },
+  {
+    "query": "Santoku Restaurant Accra",
+    "place_id": "10498204",
+    "name": "Rockefellas Sushi & Grill Restaurant",
+    "type": null,
+    "rating": 4.2,
+    "category": "restaurants"
+  },
+  {
+    "query": "Bistro 22 Accra",
+    "place_id": "6821855",
+    "name": "Bistro 22",
+    "type": null,
+    "rating": 4.2,
+    "category": "restaurants"
+  },
+  {
+    "query": "Bistro 22 Accra",
+    "place_id": "1656025",
+    "name": "The Accra Deck Restaurant",
+    "type": null,
+    "rating": 4,
+    "category": "restaurants"
+  },
+  {
+    "query": "Chop Bar Kumasi",
+    "place_id": "317061",
+    "name": "Kumasi",
+    "type": null,
+    "rating": null,
+    "category": "restaurants"
+  },
+  {
+    "query": "Chop Bar Kumasi",
+    "place_id": "4814850",
+    "name": "Chop's Wine Bar",
+    "type": null,
+    "rating": 4.5,
+    "category": "restaurants"
+  },
+  {
+    "query": "Cape Coast Castle",
+    "place_id": "478868",
+    "name": "Cape Coast Castle",
+    "type": null,
+    "rating": 4.5,
+    "category": "attractions"
+  },
+  {
+    "query": "Cape Coast Castle",
+    "place_id": "24189724",
+    "name": "Cape Coast Castle, Elmina Castle & Kakum National Park Day Tour",
+    "type": null,
+    "rating": 4.9,
+    "category": "attractions"
+  },
+  {
+    "query": "Elmina Castle",
+    "place_id": "325039",
+    "name": "Elmina Castle",
+    "type": null,
+    "rating": 4.5,
+    "category": "attractions"
+  },
+  {
+    "query": "Elmina Castle",
+    "place_id": "24189724",
+    "name": "Cape Coast Castle, Elmina Castle & Kakum National Park Day Tour",
+    "type": null,
+    "rating": 4.9,
+    "category": "attractions"
+  },
+  {
+    "query": "Kakum National Park",
+    "place_id": "478872",
+    "name": "Kakum National Park",
+    "type": null,
+    "rating": 4.2,
+    "category": "attractions"
+  },
+  {
+    "query": "Kakum National Park",
+    "place_id": "24189724",
+    "name": "Cape Coast Castle, Elmina Castle & Kakum National Park Day Tour",
+    "type": null,
+    "rating": 4.9,
+    "category": "attractions"
+  },
+  {
+    "query": "Kwame Nkrumah Memorial Park Accra",
+    "place_id": "478885",
+    "name": "Kwame Nkrumah Memorial Park",
+    "type": null,
+    "rating": 4,
+    "category": "attractions"
+  },
+  {
+    "query": "Kwame Nkrumah Memorial Park Accra",
+    "place_id": "34188157",
+    "name": "Ghana Accra Day Tour Labadi Beach And Kwame Nkrumah Memorial",
+    "type": null,
+    "rating": 0,
+    "category": "attractions"
+  },
+  {
+    "query": "Wli Waterfalls Hohoe",
+    "place_id": "12228977",
+    "name": "Wli Waterfall Inn",
+    "type": null,
+    "rating": 4.9,
+    "category": "attractions"
+  },
+  {
+    "query": "Wli Waterfalls Hohoe",
+    "place_id": "2332594",
+    "name": "Wli Waterfalls",
+    "type": null,
+    "rating": 4.6,
+    "category": "attractions"
+  },
+  {
+    "query": "Manhyia Palace Museum Kumasi",
+    "place_id": "8670270",
+    "name": "Manhyia Palace Museum",
+    "type": null,
+    "rating": 4.1,
+    "category": "attractions"
+  },
+  {
+    "query": "Manhyia Palace Museum Kumasi",
+    "place_id": "13975213",
+    "name": "Prempeh II Museum",
+    "type": null,
+    "rating": 4.5,
+    "category": "attractions"
+  },
+  {
+    "query": "Aburi Botanical Gardens",
+    "place_id": "480112",
+    "name": "Aburi Botanical Gardens",
+    "type": null,
+    "rating": 3.9,
+    "category": "attractions"
+  },
+  {
+    "query": "Aburi Botanical Gardens",
+    "place_id": "23946713",
+    "name": "Experience Botiwaterfall, Aburi Botanical Gardens & a Cocoa Farm.",
+    "type": null,
+    "rating": 4.9,
+    "category": "attractions"
+  }
+]

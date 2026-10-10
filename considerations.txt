@@ -1,0 +1,3 @@
+Scraped data for the popular places in Accra
+Constraints from the SerpAPI and data scraping render it so
+55 searches as a modest number
